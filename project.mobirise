@@ -56,7 +56,8 @@
     "uniqCompNum": 51,
     "versionPublish": "5.9.11",
     "screenshot": "screenshot.png",
-    "witsec-white-label": true
+    "witsec-white-label": true,
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
