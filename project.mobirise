@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio - Daniel Hudon",
-    "currentPage": "index.html",
+    "currentPage": "derailthedragon.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -44,7 +44,7 @@
       }
     ],
     "favicon": false,
-    "mbrsiteDomain": "4y7ahzpugx",
+    "mbrsiteDomain": "likkd01bho",
     "imageResize": false,
     "usedWebp": false,
     "robotsSwitcher": false,
