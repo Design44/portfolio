@@ -57,7 +57,7 @@
     "versionPublish": "5.9.11",
     "screenshot": "screenshot.png",
     "witsec-white-label": true,
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
